@@ -80,4 +80,8 @@ dependencies {
 
     //glide
     implementation "com.github.bumptech.glide:glide:$version_glide"
+
+    //recycler
+    implementation "androidx.recyclerview:recyclerview:$version_recyclerview"
+
 }
